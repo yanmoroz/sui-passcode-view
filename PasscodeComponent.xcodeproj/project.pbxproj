@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A36A990A2B71A7C000A09A91 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = A36A99082B71A7C000A09A91 /* 2.png */; };
+		A36A990B2B71A7C000A09A91 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = A36A99092B71A7C000A09A91 /* 3.png */; };
 		A3E0AFAD2B719455006D9B5C /* PasscodeComponentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E0AFAC2B719455006D9B5C /* PasscodeComponentApp.swift */; };
 		A3E0AFAF2B719455006D9B5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E0AFAE2B719455006D9B5C /* ContentView.swift */; };
 		A3E0AFB12B719455006D9B5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3E0AFB02B719455006D9B5C /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A36A99082B71A7C000A09A91 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		A36A99092B71A7C000A09A91 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		A3E0AFA92B719455006D9B5C /* PasscodeComponent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PasscodeComponent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E0AFAC2B719455006D9B5C /* PasscodeComponentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasscodeComponentApp.swift; sourceTree = "<group>"; };
 		A3E0AFAE2B719455006D9B5C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				A3E0AFCB2B71A652006D9B5C /* 1.png */,
+				A36A99082B71A7C000A09A91 /* 2.png */,
+				A36A99092B71A7C000A09A91 /* 3.png */,
 			);
 			path = "github-images";
 			sourceTree = "<group>";
@@ -159,6 +165,8 @@
 				A3E0AFB42B719455006D9B5C /* Preview Assets.xcassets in Resources */,
 				A3E0AFB12B719455006D9B5C /* Assets.xcassets in Resources */,
 				A3E0AFCC2B71A652006D9B5C /* 1.png in Resources */,
+				A36A990B2B71A7C000A09A91 /* 3.png in Resources */,
+				A36A990A2B71A7C000A09A91 /* 2.png in Resources */,
 				A3E0AFCE2B71A686006D9B5C /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
