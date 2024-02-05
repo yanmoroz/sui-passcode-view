@@ -14,6 +14,8 @@
 		A3E0AFC42B7194E4006D9B5C /* PasscodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E0AFC32B7194E4006D9B5C /* PasscodeView.swift */; };
 		A3E0AFC62B7194EF006D9B5C /* PasscodeIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E0AFC52B7194EF006D9B5C /* PasscodeIndicatorView.swift */; };
 		A3E0AFC82B7194F8006D9B5C /* NumberPadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E0AFC72B7194F8006D9B5C /* NumberPadView.swift */; };
+		A3E0AFCC2B71A652006D9B5C /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = A3E0AFCB2B71A652006D9B5C /* 1.png */; };
+		A3E0AFCE2B71A686006D9B5C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A3E0AFCD2B71A686006D9B5C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		A3E0AFC32B7194E4006D9B5C /* PasscodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasscodeView.swift; sourceTree = "<group>"; };
 		A3E0AFC52B7194EF006D9B5C /* PasscodeIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasscodeIndicatorView.swift; sourceTree = "<group>"; };
 		A3E0AFC72B7194F8006D9B5C /* NumberPadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberPadView.swift; sourceTree = "<group>"; };
+		A3E0AFCB2B71A652006D9B5C /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		A3E0AFCD2B71A686006D9B5C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +45,8 @@
 		A3E0AFA02B719455006D9B5C = {
 			isa = PBXGroup;
 			children = (
+				A3E0AFCD2B71A686006D9B5C /* README.md */,
+				A3E0AFCA2B71A642006D9B5C /* github-images */,
 				A3E0AFAB2B719455006D9B5C /* PasscodeComponent */,
 				A3E0AFAA2B719455006D9B5C /* Products */,
 			);
@@ -82,6 +88,14 @@
 				A3E0AFC32B7194E4006D9B5C /* PasscodeView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		A3E0AFCA2B71A642006D9B5C /* github-images */ = {
+			isa = PBXGroup;
+			children = (
+				A3E0AFCB2B71A652006D9B5C /* 1.png */,
+			);
+			path = "github-images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -144,6 +158,8 @@
 			files = (
 				A3E0AFB42B719455006D9B5C /* Preview Assets.xcassets in Resources */,
 				A3E0AFB12B719455006D9B5C /* Assets.xcassets in Resources */,
+				A3E0AFCC2B71A652006D9B5C /* 1.png in Resources */,
+				A3E0AFCE2B71A686006D9B5C /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
